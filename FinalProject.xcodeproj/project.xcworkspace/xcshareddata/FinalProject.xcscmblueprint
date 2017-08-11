@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4C24C5A06A159868A8BD4A65B5BE852B9EE8CFE1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4C24C5A06A159868A8BD4A65B5BE852B9EE8CFE1" : 0,
+    "0CFBB4F4B2FEC9647C09F74452EA1C36F06736F0" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E95270D7-6C21-48F4-8F5A-C68311F9D035",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4C24C5A06A159868A8BD4A65B5BE852B9EE8CFE1" : "Skate_Spot_Go\/",
+    "0CFBB4F4B2FEC9647C09F74452EA1C36F06736F0" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FinalProject",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "FinalProject.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kevinha96\/CSE438S.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0CFBB4F4B2FEC9647C09F74452EA1C36F06736F0"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/ebisberg\/cse438finalproject.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4C24C5A06A159868A8BD4A65B5BE852B9EE8CFE1"
+    }
+  ]
+}
